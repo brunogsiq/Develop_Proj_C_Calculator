@@ -61,3 +61,6 @@ Divirta-se calculando com a Calculadora em C! 🚀🧮
 [IMAGE 1](https://github.com/brunogsiq/Inventions_Projects_Tests/blob/master/C/Calculator/public/images/1.PNG)
 
 [IMAGE 1](https://github.com/brunogsiq/Inventions_Projects_Tests/blob/master/C/Calculator/public/images/2.PNG)
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
